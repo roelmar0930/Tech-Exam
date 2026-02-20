@@ -99,6 +99,6 @@ npm start
 
 Now you can access:
 - Frontend: http://localhost:3000
-- Backend: http://localhost:3000 (or your configured port)
+- Backend: http://localhost:5000 (or your configured port)
 
 Make sure both servers are running simultaneously for the application to work properly.
